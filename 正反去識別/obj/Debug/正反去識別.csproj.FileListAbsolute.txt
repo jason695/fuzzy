@@ -1,0 +1,9 @@
+c:\users\113720\documents\visual studio 2013\Projects\正反去識別\正反去識別\bin\Debug\正反去識別.exe.config
+c:\users\113720\documents\visual studio 2013\Projects\正反去識別\正反去識別\bin\Debug\正反去識別.exe
+c:\users\113720\documents\visual studio 2013\Projects\正反去識別\正反去識別\bin\Debug\正反去識別.pdb
+c:\users\113720\documents\visual studio 2013\Projects\正反去識別\正反去識別\obj\Debug\正反去識別.csprojResolveAssemblyReference.cache
+c:\users\113720\documents\visual studio 2013\Projects\正反去識別\正反去識別\obj\Debug\正反去識別.Form1.resources
+c:\users\113720\documents\visual studio 2013\Projects\正反去識別\正反去識別\obj\Debug\正反去識別.Properties.Resources.resources
+c:\users\113720\documents\visual studio 2013\Projects\正反去識別\正反去識別\obj\Debug\正反去識別.csproj.GenerateResource.Cache
+c:\users\113720\documents\visual studio 2013\Projects\正反去識別\正反去識別\obj\Debug\正反去識別.exe
+c:\users\113720\documents\visual studio 2013\Projects\正反去識別\正反去識別\obj\Debug\正反去識別.pdb
